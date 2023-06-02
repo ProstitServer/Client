@@ -17,5 +17,5 @@
 * Запусти новый профиль в лаунчере с названием Quilt
 
 ### Если ты адекват на MultiMC
-* Как и в [ТЛаунчер](https://github.com/ProstitServer/Client#TLauncher%20%2F%20Official) скачиваешь ZIP и закидываешь в новую сборку на 1.19.3
+* Как и в [ТЛаунчер](https://github.com/ProstitServer/Client#tlauncher--official) скачиваешь ZIP и закидываешь в новую сборку на 1.19.3
 * В настройках сборки установи Quilt самой последней версии
