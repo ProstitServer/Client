@@ -7,7 +7,7 @@
 * Желательно вернуть мозги
 * Удалить доту
 * Наверху страницы нажать на кнопку Code -> Download ZIP (очень сложно)
-![image](https://github.com/ProstitServer/Client/assets/92324273/65171cb8-909b-4520-a521-78f982d11544)
+![image](https://github.com/ProstitServer/Client/assets/92324273/3ae37948-b74e-417d-8dcc-9ac9fab491b3)
 * Закинуть это в %appdata%\\.minecraft
 * Скачай и запусти установщик [Quilt](https://quiltmc.org/en/install/client/)
 * Выбери версию майна 1.19.3 и самую последнюю Loader Version
