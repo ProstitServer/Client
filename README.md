@@ -13,10 +13,11 @@
 ![image](https://github.com/ProstitServer/Client/assets/92324273/3ae37948-b74e-417d-8dcc-9ac9fab491b3)
 * Закинуть это в %appdata%\\.minecraft
 * Выбери версию майна **1.19.3 Fabric**
-![image](https://github.com/ProstitServer/Client/assets/92324273/58eb44b5-e507-4960-9ba1-b90788c6494a)
+
 
 #### Official Launcher
 * все тоже самое как и с тланучером, но надо дополнительно скачать и установить Fabric
+
 
 #### MultiMC
 * Как и в [ТЛаунчер](https://github.com/ProstitServer/Client#tlauncher) скачиваешь ZIP и закидываешь в новую сборку на 1.19.3
